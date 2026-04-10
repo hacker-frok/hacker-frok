@@ -4,7 +4,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
    <picture>
-      <img src="/res/helloworld.svg" />
+      <img src="/res/hello.svg" />
     </picture>
   </div>
 
@@ -119,6 +119,9 @@
   <img src="https://img.shields.io/badge/-Ansible-FFF?logo=Ansible&logoColor=EE0000" alt="Ansible" style="display: inline-block;" />&nbsp;
    
 </p>
-
+ <div>&nbsp;</div>
+<div align="center">
+<img src="/res/giphy.gif" alt="DevOps" style="display: inline-block;" height="225px" align="center" />
+</div>
 <!-- <img width=100% src="./res/footer.svg" alt="尾部图"/> -->
 </div>
