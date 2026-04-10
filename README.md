@@ -2,9 +2,9 @@
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);祝您今天愉快!&center=true&size=27" />
-    </a>
+   <picture>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=440&lines=console.log(%22Hello%2C%20World!%22)&center=true&size=26" />
+    </picture>
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
@@ -35,8 +35,8 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
-
+<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" /> -->
+<!-- <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span> -->
 <p>&emsp;&emsp;嗨，你好，我是hacker-frok。</p>
 <p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，希望能成为一名优秀的开发者。</p>
