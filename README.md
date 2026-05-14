@@ -57,7 +57,7 @@
 
 <!-- <p>&emsp;&emsp;📧 Email: <a href="mailto:hackers@hacker-frok.com">hackers@hacker-frok.com</a></p> -->
 <p>&emsp;&emsp;爱发电: <a href="https://ifdian.net/a/hacker-frok">hacker-frok</a></p>
-<!-- <p>&emsp;&emsp; 爱发电: <a href="https://ifdian.net/a/hacker-frok">hacker-frok</a></p> -->
+<!-- <p>&emsp;&emsp; 已入驻爱发电: <a href="https://ifdian.net/a/hacker-frok">hacker-frok</a></p> -->
 <p></p>
 
 </td></tr>
