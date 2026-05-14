@@ -52,6 +52,14 @@
 <p>&emsp;&emsp;📱 Telegram: <a href="https://t.me/fulltimer007">hacker_frok</a></p>
 <!-- <p>&emsp;&emsp;📱 Discord: <a href="https://discord.gg/wintrue">hacker-frok</a></p> -->
 <p></p>
+
+### 📫 爱发电
+
+<!-- <p>&emsp;&emsp;📧 Email: <a href="mailto:hackers@hacker-frok.com">hackers@hacker-frok.com</a></p> -->
+<p>&emsp;&emsp;爱发电: <a href="https://ifdian.net/a/hacker-frok">hacker-frok</a></p>
+<!-- <p>&emsp;&emsp; 爱发电: <a href="https://ifdian.net/a/hacker-frok">hacker-frok</a></p> -->
+<p></p>
+
 </td></tr>
 
 
